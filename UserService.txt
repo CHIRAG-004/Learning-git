@@ -1,7 +1,7 @@
 Get the user data...
 process the data
 
+getting image url from server
 
 
 create an avatar for user
-create a user prodile section
