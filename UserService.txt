@@ -2,6 +2,6 @@ Get the user data...
 process the data
 
 
-
+getting url
 create an avatar for user
 
